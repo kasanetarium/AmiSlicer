@@ -423,8 +423,6 @@ Copyright (c) 2026 Yosuke Hori / kasanetarium
 
 詳細は [LICENSE](LICENSE) ファイルを参照してください。
 
-See the [LICENSE](LICENSE) file for details.
-
 ---
 
 <p align="center">
