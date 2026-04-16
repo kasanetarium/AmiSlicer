@@ -50,8 +50,7 @@
 
 AmiSlicer is a desktop application that loads STL files and generates G-code by applying sinusoidal deformation to perimeters. It can create 3D printed objects with a unique woven-like surface texture.
 
-![img](docs/soroban_git.jpg)
-
+<img src="img/soroban_git.jpg" width="50%" alt="soroban">
 
 ### Key Features
 
@@ -104,15 +103,14 @@ AmiSlicer is a desktop application that loads STL files and generates G-code by 
 
 ## 4. UI Overview
 
-![img](img/UI_git.jpg)
-
+<img src="img/UI_git.jpg" width="25%" alt="UI">
 ---
 
 ## 5. Detailed Usage
 
 ### 5.1 Loading STL
 
-![img](img/STLUI_git.jpg)
+<img src="img/STLUI_git.jpg" width="25%" alt="STLUI">
 
 1. Click **Open STL…** or use **File → Open STL…** (`Ctrl+O`), or drag and drop an STL file into the application window
 2. Select a `.stl` file
@@ -145,8 +143,7 @@ Change the orientation of the STL model to adjust the slicing direction.
 
 #### 5.3.1 Machine Tab
 
-![img](img/machine_git.jpg)
-
+<img src="img/machine_git.jpg" width="50%" alt="machine">
 
 These are the hardware settings of your 3D printer.
 
@@ -164,7 +161,7 @@ Please check the specifications of your printer and the settings you normally us
 
 #### 5.3.2 Print Tab
 
-![img](img/print_git.jpg)
+<img src="img/print_git.jpg" width="50%" alt="print">
 
 These are the print parameters.
 
@@ -188,7 +185,8 @@ Please enter values appropriate for your filament and 3D printer.
 
 ### 5.4 Wave Tab
 
-![img](img/wave_git.jpg)
+<img src="img/wave_git.jpg" width="50%" alt="wave">
+
 
 These are the wave settings, which are the core feature of AmiSlicer. The Wave tab consists of three groups: **Wave Settings**, **Bottom Settings**, and **Print Settings (synced)**.
 
@@ -246,7 +244,8 @@ This group summarizes settings related to bottom layers.
 
 ### 6.1 2D Preview
 
-![img](img/2D_git.jpg)
+<img src="img/2D_git.jpg" width="50%" alt="2D">
+
 
 Displays the contour of the selected layer.
 
@@ -259,7 +258,7 @@ Displays the contour of the selected layer.
 
 ### 6.2 3D Preview
 
-![img](img/3D_git.jpg)
+<img src="img/3D_git.jpg" width="50%" alt="3D">
 
 Displays all layers stacked in 3D.
 
