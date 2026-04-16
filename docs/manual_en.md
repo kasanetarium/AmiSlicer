@@ -103,14 +103,14 @@ AmiSlicer is a desktop application that loads STL files and generates G-code by 
 
 ## 4. UI Overview
 
-<img src="img/UI_git.jpg" width="25%" alt="UI">
+<img src="img/UI_git.jpg" width="50%" alt="UI">
 ---
 
 ## 5. Detailed Usage
 
 ### 5.1 Loading STL
 
-<img src="img/STLUI_git.jpg" width="25%" alt="STLUI">
+<img src="img/STLUI_git.jpg" width="50%" alt="STLUI">
 
 1. Click **Open STL…** or use **File → Open STL…** (`Ctrl+O`), or drag and drop an STL file into the application window
 2. Select a `.stl` file
