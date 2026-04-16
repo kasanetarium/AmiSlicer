@@ -220,9 +220,6 @@ This group summarizes settings related to bottom layers.
 | Setting | Default | Description |
 | ------- | ------- | ----------- |
 | **Bottom Layers** | 1 | Number of bottom layers (can be 0; also used as the reference for Wave Start Layer) |
-
-| Setting | Default | Description |
-| ------- | ------- | ----------- |
 | **Fill bottom** | ON | Enable / disable bottom fill pattern |
 | **Apply sine wave to fill lines** | OFF | Apply sine wave to bottom fill lines |
 | **Bottom Fill Pitch** | 0.4 mm | Fill line spacing |
