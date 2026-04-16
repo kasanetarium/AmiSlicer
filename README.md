@@ -10,7 +10,7 @@
 AmiSlicer is a **generative slicer** that converts STL models into G-code with sinusoidal perimeter deformation.  
 It creates unique woven-like surface structures by alternating phase between layers.
 
-<img src="docs/img/soroban_git.jpg" width="25%" alt="soroban">
+<img src="docs/img/soroban_git.jpg" width="50%" alt="soroban">
 
 ---
 
@@ -19,7 +19,7 @@ It creates unique woven-like surface structures by alternating phase between lay
 AmiSlicerは、STLモデルの外周にサイン波変形を加えたG-codeを生成する実験的スライサーです。  
 層ごとに位相を反転させることで、編み込まれたような構造を生成します。
 
-<img src="docs/UI_git.jpg" width="50%" alt="UI">
+<img src="docs/img/UI_git.jpg" width="50%" alt="UI">
 
 ---
 
