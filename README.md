@@ -60,6 +60,7 @@ Instead, it explores:
 8. Print on your 3D printer  
 
 
+---
 1. STLを読み込む  
 2. モデルの向きを調整する  
 3. 3Dプリンタ設定と印刷設定を入力する  
