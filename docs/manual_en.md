@@ -385,6 +385,7 @@ Click **Preview G-code** to inspect the generated G-code as text.
 
 * Shapes with branching geometry (shapes whose cross-sections split into multiple contours) are not supported.
 * Shapes with internal structures (such as donut-like shapes) are not supported.
+* Support is not available. Please use shapes that do not require support.
 * To create woven structures successfully, parameters such as nozzle temperature, print speed, and extrusion amount must be carefully adjusted according to the target geometry, nozzle diameter, filament material, and the environment where the 3D printer is installed.
 
 ---
