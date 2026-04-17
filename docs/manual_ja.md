@@ -1,8 +1,6 @@
 # AmiSlicer
 
 > ⚠️ **Alpha版 (v0.01)** — 本ソフトウェアは開発段階のアルファ版です。
->
-> ⚠️ **Alpha Release (v0.01)** — This software is in early development.
 
 ---
 
