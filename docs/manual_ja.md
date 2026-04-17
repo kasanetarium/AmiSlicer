@@ -42,7 +42,7 @@
     - [自己交差が修正できない](#自己交差が修正できない)
   - [13. 注意事項](#13-注意事項)
   - [14. 安全に関する注意](#14-安全に関する注意)
-  - [15. ライセンス / License](#15-ライセンス--license)
+  - [15. ライセンス](#15-ライセンス--license)
 
 ---
 
@@ -409,8 +409,6 @@ MIT License
 Copyright (c) 2026 Yosuke Hori / kasanetarium
 
 詳細は [LICENSE](LICENSE) ファイルを参照してください。
-
-See the [LICENSE](LICENSE) file for details.
 
 ---
 
