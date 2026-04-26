@@ -19,7 +19,7 @@ It creates unique woven-like surface structures by alternating phase between lay
 
 ---
 
-## 原理
+## 原理 / Principle
 
 一般的に、3Dプリンタでは STL データ（3D CAD などで用いられる、物体表面を三角形メッシュで表現したデータ）を、スライサーソフトによって G-code（3Dプリンタを動かすための命令コード）へ変換し、その G-code を用いて印刷を行います。通常は、変換元の STL データの形状をできるだけ忠実に再現することが目指されます。
 
@@ -27,9 +27,6 @@ It creates unique woven-like surface structures by alternating phase between lay
 
 本ソフトは、そのような造形手法の原理検証を目的とした実験的なアプリケーションです。
 
----
-
-## Principle
 
 In general, 3D printing uses STL data—one of the most common file formats in 3D CAD and 3D printing, representing an object's surface as a collection of triangular meshes—which is converted into G-code, the command language used to control a 3D printer, by slicing software. The printer then fabricates the object based on that G-code. In most cases, the goal is to reproduce the original STL geometry as faithfully as possible.
 
@@ -39,15 +36,11 @@ This software is an experimental application created to explore and verify the u
 
 ---
 
-## 現在の公開状況
+## 現在の公開状況 / Current Availability
 
 AmiSlicer は αテスト版として試験公開していましたが、いただいたフィードバックを踏まえ、公開方法・説明・位置づけを見直すため、現在はアプリ本体を非公開としています。
 
 本リポジトリでは、開発時に作成したマニュアルと技術的な記録のみ公開しています。実行ファイルや配布用データは含まれていません。
-
----
-
-## Current Availability
 
 AmiSlicer was previously released as an alpha test version, but is currently private while its presentation, documentation, and positioning are being reconsidered in response to feedback.
 
@@ -105,7 +98,6 @@ This repository contains only the manual and technical records created during de
     
     リンク：https://note.com/triplebottomline/n/n0e5d7a0cdb78
 
----
 
 ## Context and Prior References
 
