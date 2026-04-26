@@ -24,7 +24,7 @@ AmiSlicer is a **generative slicer** that converts STL models into G-code with s
 It creates unique woven-like surface structures by alternating phase between layers.
 
 <img src="docs/img/UI_git.jpg" width="50%" alt="UI">
-<img src="docs/img/sara_git.jpg" width="25%" alt="soroban">
+<img src="docs/img/sara_git.jpg" width="25%" alt="sara">
 
 
 ---
