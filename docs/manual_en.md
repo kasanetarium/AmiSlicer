@@ -50,7 +50,7 @@
 
 AmiSlicer is a desktop application that loads STL files and generates G-code by applying sinusoidal deformation to perimeters. It can create 3D printed objects with a unique woven-like surface texture.
 
-<img src="img/soroban_git.jpg" width="50%" alt="soroban">
+<img src="img/sara_git.jpg" width="50%" alt="soroban">
 
 ### Key Features
 
