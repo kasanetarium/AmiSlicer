@@ -50,7 +50,7 @@
 
 AmiSlicerは、STLファイルを読み込み、外周にSIN波の変形を加えたG-codeを生成するデスクトップアプリケーションです。「編む」ような独特の表面テクスチャを持つ3Dプリント造形物を作ることができます。
 
-<img src="img/ssara_git.jpg" width="25%" alt="soroban">
+<img src="img/sara_git.jpg" width="25%" alt="sara">
 
 ### 主な機能
 
