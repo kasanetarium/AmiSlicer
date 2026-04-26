@@ -1,3 +1,13 @@
+# ⚠️現在の公開状況 / Current Availability
+
+⚠️AmiSlicer は αテスト版として試験公開していましたが、いただいたフィードバックを踏まえ、公開方法・説明・位置づけを見直すため、現在はアプリ本体を非公開としています。
+⚠️本リポジトリでは、開発時に作成したマニュアルと技術的な記録のみ公開しています。実行ファイルや配布用データは含まれていません。
+
+⚠️AmiSlicer was previously released as an alpha test version, but is currently private while its presentation, documentation, and positioning are being reconsidered in response to feedback.
+⚠️This repository contains only the manual and technical records created during development. Executable files and distributable application data are not included.
+
+---
+
 # AmiSlicer
 
 > ⚠️ **Alpha Release (v0.01)** — This software is in early development.  
@@ -34,17 +44,6 @@ In contrast, this application does not focus solely on faithful reproduction of 
 
 This software is an experimental application created to explore and verify the underlying principle of such a fabrication method.
 
----
-
-## 現在の公開状況 / Current Availability
-
-AmiSlicer は αテスト版として試験公開していましたが、いただいたフィードバックを踏まえ、公開方法・説明・位置づけを見直すため、現在はアプリ本体を非公開としています。
-
-本リポジトリでは、開発時に作成したマニュアルと技術的な記録のみ公開しています。実行ファイルや配布用データは含まれていません。
-
-AmiSlicer was previously released as an alpha test version, but is currently private while its presentation, documentation, and positioning are being reconsidered in response to feedback.
-
-This repository contains only the manual and technical records created during development. Executable files and distributable application data are not included.
 
 ---
 
