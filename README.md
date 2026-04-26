@@ -163,18 +163,6 @@ In particular, the following contexts have been influential:
 
 ---
 
-## コンセプト / Concept
-
-本ツールは強度最適化などを目的としたものではなく、  
-**構造そのものを表現として扱うこと**を目的としています。
-
-This tool does **not aim for optimization or strength improvement**.  
-Instead, it explores:
-
-> **Structure as expression**
-
----
-
 ## 基本の流れ / Getting Started
 
 1. STLを読み込む  
